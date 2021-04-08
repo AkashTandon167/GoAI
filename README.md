@@ -1,2 +1,2 @@
 # GoAI
-A competent AI for playing the game Go (also known as Igo, Baduk, and Weiqi).
+An artifical intelligence for playing the game Go (also known as Igo, Baduk, and Weiqi).
